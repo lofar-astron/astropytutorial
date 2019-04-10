@@ -1,1 +1,4 @@
 astropy
+reproject
+pyvo
+astroquery
